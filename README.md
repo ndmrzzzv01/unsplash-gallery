@@ -12,3 +12,11 @@ Perfect for those who enjoy discovering and viewing a variety of pictures in a s
 - LiveData
 - Paging
 - ViewModel
+
+## Application
+
+### Main Screen
+<img src="utils/Screenshot_1.png" width="30%" alt="Main Screen" />
+
+### Detail Screen
+<img src="utils/Screenshot_2.png" width="30%" alt="Detail Screen" />
